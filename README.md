@@ -1,13 +1,12 @@
 # Hi, I'm Ayesha Khan 👋
 
-🎓 AI Student from Faisalabad, Pakistan  
-💻 Currently learning ML • NLP • Computer Vision • Speech Processing  
-🚀 Building projects to grow my portfolio  
+ AI Student from Faisalabad, Pakistan  
+ Currently learning ML • NLP • Computer Vision • Speech Processing  
 
-## 🛠️ Tech Stack
+##  Tech Stack
 Python • Scikit-learn • TensorFlow • OpenCV • NLTK • Pandas • Jupyter
 
-## 📂 Projects
+##  Projects
 | Project | Domain | Tech |
 |---------|--------|------|
 | [Movie Recommendation System](https://github.com/ayeshakhan00407-af/movie-recommendation-system) | ML | SVD, TF-IDF, Cosine Similarity |
