@@ -11,10 +11,10 @@ Python • Scikit-learn • TensorFlow • OpenCV • NLTK • Pandas • Jupyte
 |---------|--------|------|
 | [Movie Recommendation System](https://github.com/ayeshakhan00407-af/movie-recommendation-system) | ML | SVD, TF-IDF, Cosine Similarity |
 
-## 📈 Currently Learning
+##  Currently Learning
 - Deep Learning (CNNs, LSTMs)
 - HuggingFace Transformers
 - Building end-to-end AI pipelines
 
-## 📫 Connect
+##  Connect
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](://www.linkedin.com/in/ayeshakhan-ai)
