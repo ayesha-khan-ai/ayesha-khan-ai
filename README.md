@@ -18,4 +18,4 @@ Python • Scikit-learn • TensorFlow • OpenCV • NLTK • Pandas • Jupyte
 - Building end-to-end AI pipelines
 
 ## 📫 Connect
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](://www.linkedin.com/in/ayesha-khan-620317415)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](://www.linkedin.com/in/ayeshakhan-ai)
