@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hi, I'm Ayesha Khan 👋
 
-<!--
-**ayesha-khan-ai/ayesha-khan-ai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 AI Student from Lahore, Pakistan  
+💻 Currently learning ML • NLP • Computer Vision • Speech Processing  
+🚀 Building projects to grow my portfolio  
 
-Here are some ideas to get you started:
+## 🛠️ Tech Stack
+Python • Scikit-learn • TensorFlow • OpenCV • NLTK • Pandas • Jupyter
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📂 Projects
+| Project | Domain | Tech |
+|---------|--------|------|
+| [Movie Recommendation System](https://github.com/ayeshakhan00407-af/movie-recommendation-system) | ML | SVD, TF-IDF, Cosine Similarity |
+
+## 📈 Currently Learning
+- Deep Learning (CNNs, LSTMs)
+- HuggingFace Transformers
+- Building end-to-end AI pipelines
+
+## 📫 Connect
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](://www.linkedin.com/in/ayesha-khan-620317415)
