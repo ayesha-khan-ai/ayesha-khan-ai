@@ -1,6 +1,6 @@
 # Hi, I'm Ayesha Khan 👋
 
-🎓 AI Student from Lahore, Pakistan  
+🎓 AI Student from Faisalabad, Pakistan  
 💻 Currently learning ML • NLP • Computer Vision • Speech Processing  
 🚀 Building projects to grow my portfolio  
 
